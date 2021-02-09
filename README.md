@@ -10,7 +10,7 @@ A principal ideia do sistema desenvolvido é receber uma imagem de raio-x do pul
 Utilizar esse sistema **não substitui o diagnóstico médico**, uma vez que não é possível garantir 100% de precisão na detecção da doença.
 
 ## Dataset e Modelo treinado
-Rode os códigos [download_dataset.py](download_dataset.py) e [download_trained_model.py](download_trained_model.py) para fazer o download do dataset e modelo pré-treinado, respectivamente. Nosso dataset foi construído a partir do [COVID-19 image data collection]{https://github.com/ieee8023/covid-chestxray-dataset}.
+Rode os códigos [download_dataset.py](download_dataset.py) e [download_trained_model.py](download_trained_model.py) para fazer o download do dataset e modelo pré-treinado, respectivamente. Nosso dataset foi construído a partir do [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset).
 
 ## Códigos 
 
